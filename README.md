@@ -4,3 +4,7 @@
 2. [Операторы ветвления](https://github.com/DmitrBayan/TverSU_C_first_course_helper/blob/main/Операторы%20ветвления.md)
 3. [Циклы](https://github.com/DmitrBayan/TverSU_C_first_course_helper/blob/main/Циклы.md)
 4. [Работа с функциями](https://github.com/DmitrBayan/TverSU_C_first_course_helper/blob/main/Работа%20с%20функциями.md)
+
+P.S. Темы добавляются
+
+**Author**: Баяндин Дмитрий Валерьевич
